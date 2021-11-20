@@ -3,6 +3,9 @@
 A new Flutter project.  
 This app shows some meals, its ingredients and cooking steps.
 
+# Screenshots
+![Screenshot_2021 11 19_23 16 49 508](https://user-images.githubusercontent.com/36920057/142728770-10ee7faf-89d6-4cac-89ff-2459053b8512.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
