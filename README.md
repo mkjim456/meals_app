@@ -1,6 +1,7 @@
 # meals_app
 
 A new Flutter project.  
+
 This app shows some meals, its ingredients and cooking steps. Users can choose their meal by filtering their choice E.g. vegan, vegetarian and also can mark a meal as their favourite.
 
 # Screenshots
@@ -13,6 +14,7 @@ This app shows some meals, its ingredients and cooking steps. Users can choose t
 
 # Installation
 Download apk zip file from here : [release.zip](https://github.com/mkjim456/meals_app/files/7574664/release.zip)
+
 Unzip the file and install apk.
 
 ## Getting Started
