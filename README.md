@@ -13,6 +13,7 @@ This app shows some meals, its ingredients and cooking steps. Users can choose t
 
 # Installation
 Download apk zip file from here : [release.zip](https://github.com/mkjim456/meals_app/files/7574664/release.zip)
+Unzip the file and install apk.
 
 ## Getting Started
 
